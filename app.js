@@ -7,5 +7,5 @@ app.get('/test', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Server running on port ${port}`);
+  console.log(`Server running on port ${PORT}`);
 });
